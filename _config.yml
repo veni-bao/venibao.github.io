@@ -1,8 +1,8 @@
 name: "Jiahao's blog"
 description: "佳昊的个人技术博客"
 
-avatar: https://venibao.github.io/images/shorekeeper.png
-favicon: https://venibao.github.io/images/favicon.ico
+avatar: https://veni-bao.github.io/images/avatar.png
+favicon: https://veni-bao.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
